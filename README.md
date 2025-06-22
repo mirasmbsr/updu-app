@@ -1,16 +1,17 @@
-# updu
+# Updu
 
-A new Flutter project.
+Updu is a minimal morning check-in app built with Flutter.
+
+## Features
+
+- Track a simple daily routine: **Wake Up**, **Run/Move**, and **Water/Hydration**.
+- Keep a streak counter of consecutive days checked in.
+- Receive a short encouraging phrase after completing all actions.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install [Flutter](https://docs.flutter.dev/).
+2. Run `flutter pub get` to fetch dependencies.
+3. Launch the app with `flutter run` on your preferred device.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Updu is intentionally lightweight: open the app, tick off your actions, and start your day.
